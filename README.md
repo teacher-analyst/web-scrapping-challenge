@@ -10,5 +10,9 @@ You’re now ready to take on a full web-scraping and data analysis project. You
 https://static.bc-edx.com/data/web/mars_news/index.html 
 
 #### Deliverables
-Scrape titles and preview text from Mars news articles. 
-Scrape and analyse Mars weather data, which exists in a table. 
+1. Scrape titles and preview text from Mars news articles. 
+2. Scrape and analyse Mars weather data, which exists in a table. 
+
+#### Screenshots
+
+![image](https://github.com/teacher-analyst/web-scrapping-challenge/assets/130710065/a177d357-489b-4abf-8a36-7aea5788cf9d)
