@@ -18,10 +18,10 @@ https://static.bc-edx.com/data/web/mars_news/index.html
 
 ### Technology Used 
 
-*Beautiful soup  
-*tml5lib and lxml 
-*Splinter 
-*ChromeDriver 
-*Matplotlib 
-*Pandas 
-*Jupyter notebook 
+- Beautiful soup  
+- html5lib and lxml 
+- Splinter 
+- ChromeDriver 
+- Matplotlib 
+- Pandas 
+- Jupyter notebook 
