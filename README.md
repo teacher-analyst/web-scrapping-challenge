@@ -17,7 +17,7 @@ https://static.bc-edx.com/data/web/mars_news/index.html
 ![image](https://github.com/teacher-analyst/web-scrapping-challenge/assets/130710065/9806987b-83de-4dc0-ac00-44009c87d253)
 
 
-### Technology Used 
+### Technologies 
 
 - Beautiful soup  
 - html5lib and lxml 
