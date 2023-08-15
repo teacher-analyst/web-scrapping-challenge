@@ -21,9 +21,9 @@ https://static.bc-edx.com/data/web/mars_news/index.html
 
 ### Technology Used 
 
-+Beautiful soup  
+Beautiful soup  
 
-+html5lib and lxml 
+-html5lib and lxml 
 
 Splinter 
 
