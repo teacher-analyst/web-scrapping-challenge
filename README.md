@@ -14,7 +14,7 @@ https://static.bc-edx.com/data/web/mars_news/index.html
 2. Scrape and analyse Mars weather data, which exists in a table. 
 
 ### Screenshots
-![image](https://github.com/teacher-analyst/web-scrapping-challenge/assets/130710065/47f42f3d-e309-40c5-9cb3-73dde10cefad)
+![image](https://github.com/teacher-analyst/web-scrapping-challenge/assets/130710065/2f2ac529-b623-4bf4-9e0c-a232d025b20b)
 
 ### Technology Used 
 
